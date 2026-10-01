@@ -24,6 +24,7 @@
 | Project | What it shows | Stack |
 |---|---|---|
 | [**Autism risk detection in toddlers**](https://github.com/JerryD19/autism-risk-detection-ml) | MSc dissertation (1,016 Q-CHAT records, 7 models, SMOTE, LIME) plus a later audit of my own pipeline. I traced the original 99% accuracy to label leakage and SMOTE-before-split, then re-ran it properly (ROC AUC ≈ 0.75). | Python, scikit-learn, imbalanced-learn |
+| [**Does SMOTE amplify data poisoning?**](https://github.com/JerryD19/smote-data-poisoning) | Research pilot on AI model security. I poisoned training data with label flips and measured how SMOTE spreads the poison into synthetic samples (36% → 52% of the minority class) and when that doubles the damage. | Python, scikit-learn, imbalanced-learn |
 | [**Flight price analytics**](https://github.com/JerryD19/flight-price-analytics) | 300,153 flight bookings analysed in both Python and SAS. Linear regression explains 90% of price variance (test R² = 0.90). Includes a Python vs SAS tool comparison. | Python, SAS, scikit-learn |
 | [**LA crime patterns & forecasting**](https://github.com/JerryD19/la-crime-analysis-forecasting) | ~897,000 LAPD records analysed for when and where assaults happen, then monthly volumes forecast with SARIMA. | Python, statsmodels |
 | [**Cloud data warehouse & PySpark**](https://github.com/JerryD19/cloud-data-warehouse-pyspark) | Amazon Redshift vs Azure Synapse evaluation, plus processing and modelling a retail data warehouse with PySpark. | PySpark, Redshift, Synapse |
