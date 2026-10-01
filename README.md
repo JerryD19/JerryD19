@@ -23,17 +23,18 @@
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**Autism risk detection in toddlers**](https://github.com/JerryD19/autism-risk-detection-ml) | End-to-end ML pipeline on 1,016 Q-CHAT screening records. Benchmarked 7 models; best SVM reached 99.2% accuracy and 100% recall. Fixed a 14:1 class imbalance with SMOTE and explained predictions with LIME. | Python, scikit-learn, LIME |
-| [**LA crime patterns & forecasting**](https://github.com/JerryD19/la-crime-analysis-forecasting) | Analysed ~897,000 crime records to find spatial and temporal patterns, then forecast crime volumes with SARIMA. | Python, statsmodels |
-| [**Flight price analytics**](https://github.com/JerryD19/flight-price-analytics) | Cleaned and modelled ~300,000 flight records to explain what drives ticket prices (R² = 0.88). | SAS, Python |
-| [**Cloud data warehouse evaluation**](https://github.com/JerryD19/cloud-data-warehouse-pyspark) | Processed data with PySpark and compared AWS Redshift with Azure Synapse for analytical workloads. | PySpark, Redshift, Synapse |
-| [**Clinical trial data platform (case study)**](https://github.com/JerryD19/clinical-trial-data-platform) | A normalised SQL Server warehouse (12 tables) feeding a Power BI dashboard (26 DAX measures) and a CTMS with role-based access. Shown with synthetic data only. | SQL Server, Power BI, Power Apps |
+| [**Autism risk detection in toddlers**](https://github.com/JerryD19/autism-risk-detection-ml) | MSc dissertation. End-to-end ML pipeline on 1,016 Q-CHAT screening records. Benchmarked 7 models; best SVM reached 99.2% accuracy and 100% recall. Handled a 14:1 class imbalance with SMOTE and explained predictions with LIME. | Python, scikit-learn, LIME |
+| [**Flight price analytics**](https://github.com/JerryD19/flight-price-analytics) | 300,153 flight bookings analysed in both Python and SAS. Linear regression explains 90% of price variance (test R² = 0.90). Includes a Python vs SAS tool comparison. | Python, SAS, scikit-learn |
+| [**LA crime patterns & forecasting**](https://github.com/JerryD19/la-crime-analysis-forecasting) | ~897,000 LAPD records analysed for when and where assaults happen, then monthly volumes forecast with SARIMA. | Python, statsmodels |
+| [**Cloud data warehouse & PySpark**](https://github.com/JerryD19/cloud-data-warehouse-pyspark) | Amazon Redshift vs Azure Synapse evaluation, plus processing and modelling a retail data warehouse with PySpark. | PySpark, Redshift, Synapse |
+| [**Barclays stock prediction**](https://github.com/JerryD19/barclays-stock-prediction) | Linear Regression vs Random Forest for Barclays share price, 2020–2024, presented as an academic poster. | Python, scikit-learn |
+| [**ChatGPT in medical chatbots: governance**](https://github.com/JerryD19/chatgpt-medical-chatbot-governance) | Paper on the EU AI Act, GDPR and HIPAA risks of LLM medical chatbots, proposing a governance framework. | AI ethics & governance |
 
 ---
 
 ### 💼 Experience at a glance
 
-- **Bliss Clinical Research** · Data Analyst / Engineer · 2026 – present
+- **Bliss Clinical Research** · Data Analyst / Engineer · 2026 – present: SQL Server data warehouse (12 normalised tables), Power BI reporting (26 DAX measures) and a Clinical Trial Management System with role-based access
 - **JB3 Tech** · Data Consultant · 2024 – 2026: dashboards, data cleaning, databases and pipelines for clients
 - **Zenith Bank PLC, Lagos** · Big Data Analyst / Card Business Developer · 2022 – 2023: card portfolio analysis; helped launch card deactivation and PIN selection on mobile and internet banking
 
