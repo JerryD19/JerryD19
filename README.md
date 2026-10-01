@@ -2,14 +2,14 @@
 
 **Data Analyst / Engineer** in the UK. I build data warehouses, pipelines, dashboards and machine learning models that people actually use, from clinical trial operations to retail banking.
 
-- 🔭 Currently: Data Analyst / Engineer at **Bliss Clinical Research**, building the company's data warehouse, reporting and Clinical Trial Management System
-- 🎓 MSc Big Data Analytics (**Distinction**), University of Derby · BSc Mathematics, Delta State University
-- 🔬 Interested in: trustworthy and secure machine learning, explainable AI, and data poisoning
-- 💼 Open to: senior data analyst and data engineer roles
+-  Currently: Data Analyst / Engineer at **Bliss Clinical Research**, building the company's data warehouse, reporting and Clinical Trial Management System
+-  MSc Big Data Analytics (**Distinction**), University of Derby · BSc Mathematics, Delta State University
+-  Interested in: trustworthy and secure machine learning, explainable AI, and data poisoning
+-  Open to: senior data analyst and data engineer roles
 
 ---
 
-### 🛠️ What I work with
+###  What I work with
 
 - **Languages & querying:** Python · SQL (T-SQL) · SAS · DAX · PySpark
 - **Data engineering:** SQL Server · data modelling & normalisation · ETL pipelines · AWS Redshift · Azure Synapse
@@ -19,7 +19,7 @@
 
 ---
 
-### 📂 Featured projects
+###  Featured projects
 
 | Project | What it shows | Stack |
 |---|---|---|
@@ -32,7 +32,7 @@
 
 ---
 
-### 💼 Experience at a glance
+###  Experience at a glance
 
 - **Bliss Clinical Research** · Data Analyst / Engineer · 2026 – present: SQL Server data warehouse (12 normalised tables), Power BI reporting (26 DAX measures) and a Clinical Trial Management System with role-based access
 - **JB3 Tech** · Data Consultant · 2024 – 2026: dashboards, data cleaning, databases and pipelines for clients
