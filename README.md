@@ -23,7 +23,7 @@
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**Autism risk detection in toddlers**](https://github.com/JerryD19/autism-risk-detection-ml) | MSc dissertation. End-to-end ML pipeline on 1,016 Q-CHAT screening records. Benchmarked 7 models; best SVM reached 99.2% accuracy and 100% recall. Handled a 14:1 class imbalance with SMOTE and explained predictions with LIME. | Python, scikit-learn, LIME |
+| [**Autism risk detection in toddlers**](https://github.com/JerryD19/autism-risk-detection-ml) | MSc dissertation (1,016 Q-CHAT records, 7 models, SMOTE, LIME) plus a later audit of my own pipeline. I traced the original 99% accuracy to label leakage and SMOTE-before-split, then re-ran it properly (ROC AUC ≈ 0.75). | Python, scikit-learn, imbalanced-learn |
 | [**Flight price analytics**](https://github.com/JerryD19/flight-price-analytics) | 300,153 flight bookings analysed in both Python and SAS. Linear regression explains 90% of price variance (test R² = 0.90). Includes a Python vs SAS tool comparison. | Python, SAS, scikit-learn |
 | [**LA crime patterns & forecasting**](https://github.com/JerryD19/la-crime-analysis-forecasting) | ~897,000 LAPD records analysed for when and where assaults happen, then monthly volumes forecast with SARIMA. | Python, statsmodels |
 | [**Cloud data warehouse & PySpark**](https://github.com/JerryD19/cloud-data-warehouse-pyspark) | Amazon Redshift vs Azure Synapse evaluation, plus processing and modelling a retail data warehouse with PySpark. | PySpark, Redshift, Synapse |
