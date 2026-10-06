@@ -13,24 +13,24 @@
 ###  Experience and impact
 
 - **Bliss Clinical Research** · Data Analyst / Engineer · 2026 – present<br>
-  Delivering a digital transformation from Microsoft Forms-based recruitment to a CTMS built on Power Apps and Power Automate. I mapped the current and future-state processes across **5 trial stages**, sized the system for **10–50 staff** and **2,000 active participants**, and defined role-based access. I also designed a **12-table** SQL Server warehouse and an executive Power BI dashboard (**26 DAX measures**), and I engage trial sponsors and suppliers. The CTMS is now in testing.
+  Delivering a digital transformation from Microsoft Forms-based recruitment to a CTMS built on Power Apps and Power Automate. I mapped the current and future-state processes in Visio across **5 trial stages**, ran requirements workshops, wrote user stories with acceptance criteria for **10–50 staff** and **2,000 active participants**, and defined role-based access. I also designed a **12-table** SQL Server warehouse and an executive Power BI dashboard (**26 DAX measures**), and I engage trial sponsors and suppliers. The CTMS is now in user acceptance testing, with test cases, a defect log, and user guides for rollout.
 - **JB3 Tech** · Data Consultant · 2024 – 2026<br>
   Data analysis, reporting and data engineering for **10+ clients**: Power BI and Excel dashboards, databases, data models and pipelines, plus advice on KPIs and process improvements.
 - **University of Derby** · Postgraduate Researcher, MSc Big Data Analytics · 2023 – 2024<br>
   Applied research on real-world datasets, each project ending in recommendations for decision-makers (see projects below).
 - **Zenith Bank PLC, Lagos** · Big Data Analyst / Card Business Developer · 2022 – 2024 (study leave 2023–24)<br>
-  Worked with designers, engineers and testers to launch **3 self-service features** on mobile and internet banking, and with Mastercard and suppliers to launch **3 card products**. Led Zenith's side of the **Visa** FIFA World Cup 2022 partnership, which lifted card adoption **25%** across 390+ branches. My **50+ partnerships** added **1,000,000 cards** in 2023 (**+28%** year on year), and I trained **5,000+ staff**.
+  Worked with designers, engineers and testers to launch **3 self-service features** on mobile and internet banking, and with Mastercard and suppliers to launch **3 card products**. Led Zenith's side of the **Visa** FIFA World Cup 2022 partnership, which lifted card adoption **25%** across 390+ branches. My **50+ partnerships** added **1,000,000 cards** in 2023 (**+28%** year on year), and I supported change management by training **5,000+ staff**.
 
 ---
 
 ###  What I work with
 
-- **Business analysis:** functional and non-functional requirements · current and future-state process mapping · solution options appraisal · vendor evaluation · stakeholder engagement · system testing · training and adoption
+- **Business analysis:** requirements workshops · user stories and acceptance criteria · functional and non-functional requirements · current and future-state process mapping (Visio) · solution options appraisal · vendor evaluation · test cases and UAT · change management, user guides and training
 - **Languages & querying:** Python · SQL (T-SQL) · SAS · R · DAX · PySpark
 - **Data engineering:** SQL Server · data modelling & normalisation · ETL pipelines · Amazon Redshift · Azure Synapse
 - **BI & low-code:** Power BI · Excel · Tableau · Power Apps · Power Automate · Microsoft Forms
 - **Machine learning:** scikit-learn · imbalanced-learn (SMOTE) · LIME · time-series forecasting (SARIMA)
-- **Tools:** Jupyter · Git · Pandas · NumPy · Matplotlib · Seaborn
+- **Tools:** Microsoft Visio · JIRA · Trello · Microsoft Planner · Jupyter · Git · Pandas · NumPy · Matplotlib · Seaborn
 
 ---
 
