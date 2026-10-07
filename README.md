@@ -1,10 +1,11 @@
 # Hi, I'm Jeremiah Dibie 👋
 
-**Data & AI Engineer** in the UK. I build AI and data systems that people can trust, and do the requirements, process mapping and change work that gets them adopted. My work spans clinical research, data consulting and retail banking.
+**IT Business Analyst** in the UK with a strong data and AI background. I build explainable AI and data systems that people can trust, and do the requirements, process mapping, testing and change work that gets them adopted. My work spans clinical research, data consulting and retail banking.
 
--  Currently: Data Analyst / Engineer at **Bliss Clinical Research**, where I built an **agentic AI pre-screening assistant** on a large language model and am delivering a Clinical Trial Management System (CTMS)
--  Strengths: LLMs and agentic AI · explainable AI · machine learning · NLP · Python · SQL Server · Power BI · Power Platform · requirements and process mapping · digital transformation
+-  Currently: IT Business Analyst at **Bliss Clinical Research**, where I built an **agentic AI pre-screening assistant** on a large language model and am delivering a Clinical Trial Management System (CTMS)
+-  Strengths: explainable AI · LLMs and agentic AI · machine learning · NLP · digital transformation · requirements, process mapping and UAT · Python · SQL Server · Power BI · Power Platform
 -  MSc Big Data Analytics (**Distinction**, incl. Natural Language Processing), University of Derby · BSc Mathematics (2:1), Delta State University
+-  Speaking: "Thriving in the Age of AI" webinar for over 200 professionals · research poster at the University of Derby
 -  Interested in: trustworthy and secure machine learning, explainable AI, and data poisoning
 -  Open to: AI, machine learning, data engineering and business analysis roles
 
@@ -12,15 +13,15 @@
 
 ###  Experience and impact
 
-- **Bliss Clinical Research** · Data Analyst / Engineer · 2026 – present<br>
+- **Bliss Clinical Research** · IT Business Analyst · 2026 – present<br>
   Delivering AI and digital transformation for a company that previously ran recruitment on Microsoft Forms alone. I designed and built an **agentic AI pre-screening assistant** on Anthropic's Claude LLM: it screens people who respond to social media adverts, answers only from approved study information, and books eligible people through the Microsoft Graph API. Its decisions are **explainable and auditable**: the LLM works through **5 tools** with strict input schemas, a deterministic rules engine decides eligibility, uncertain cases go to staff, and every record traces to its approved question version (Node.js, **26 automated tests**, privacy by design under GDPR).<br>
   I also built the company's data foundations **from scratch**: a **12-table** SQL Server warehouse and an executive Power BI dashboard (**26 DAX measures**). I am delivering a CTMS on Power Apps and Power Automate across **5 trial stages** for **10–50 staff** and **2,000 active participants**, from requirements workshops, Visio process maps and user stories to user acceptance testing, and I demonstrated both systems to the CEO and managers. *The assistant's code is private company work, so it is not published here.*
 - **JB3 Tech** · Data Consultant · 2024 – 2026<br>
-  Data analysis, reporting and data engineering for **10+ clients**: Power BI and Excel dashboards, databases, data models and pipelines, plus advice on KPIs and process improvements.
+  Data analysis, reporting and data engineering for **10 clients**: Power BI and Excel dashboards, databases, data models and pipelines, plus advice on KPIs and process improvements.
 - **University of Derby** · Postgraduate Researcher, MSc Big Data Analytics · 2023 – 2024<br>
   Applied research on real-world datasets, including modules in Natural Language Processing and Ethics, Trust and Governance. I presented a research poster at the university (see projects below).
 - **Zenith Bank PLC, Lagos** · Big Data Analyst / Card Business Developer · 2022 – 2024 (study leave 2023–24)<br>
-  Worked with designers, engineers and testers to launch **3 self-service features** on mobile and internet banking, and with Mastercard and suppliers to launch **3 card products**. Led Zenith's side of the **Visa** FIFA World Cup 2022 partnership, which lifted card adoption **25%** across 390+ branches. My **50+ partnerships** added **1,000,000 cards** in 2023 (**+28%** year on year), and I supported change management by training **5,000+ staff**. I also used SharePoint to share documents, build lists and manage permissions.
+  Worked with designers, engineers and testers to launch **3 self-service features** on mobile and internet banking, and with Mastercard and suppliers to launch **3 card products**. Led Zenith's side of the **Visa** FIFA World Cup 2022 partnership, which lifted card adoption **25%** across 390 branches. My **50 partnerships** added **1,000,000 cards** in 2023 (**+28%** year on year), and I supported change management by training **5,000 staff** across 390 branches. I also used SharePoint to share documents, build lists and manage permissions.
 
 ---
 
