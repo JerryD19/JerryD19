@@ -7,7 +7,7 @@
 -  MSc Big Data Analytics (**Distinction**, incl. Natural Language Processing), University of Derby · BSc Mathematics (2:1), Delta State University
 -  Speaking: "Thriving in the Age of AI" webinar for over 200 professionals · research poster at the University of Derby
 -  Interested in: trustworthy and secure machine learning, explainable AI, and data poisoning
--  Open to: AI, machine learning, data engineering and business analysis roles
+-  Open to: AI, machine learning and data engineering roles, particularly where trustworthy, explainable AI matters
 
 ---
 
